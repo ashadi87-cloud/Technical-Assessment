@@ -1,2 +1,2 @@
-# Technical-Assessment
+# Muhamad Ashadi
 Technical Test
